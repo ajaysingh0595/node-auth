@@ -1,10 +1,10 @@
 * Node JS Rest API best design patterns
 * User Creation, User login, Auth middleware using JWT
 ## Dependency
- *Node js 
- *mongodb
- *mongoose
- *JWT
+ * Node js 
+ * mongodb
+ * mongoose
+ * JWT
 ## installation
 * Step : 1 : npm i
 * Step : 2 : change config file (config folder) and add mongodb url
